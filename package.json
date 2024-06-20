@@ -9,7 +9,8 @@
   "license": "MIT",
   "description": "",
   "dependencies": {
-    "express": "^4.19.2"
-  },
-  "type": "module"
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "sqlite3": "^5.1.7"
+  }
 }
